@@ -2,7 +2,7 @@
 
 Flutter app that loads product from Firebase Firestore and paginate it when it reaches the bottom on the screen.
 
-** Uses the following **
+**Uses the following**
 - Flutter for mobile app development
 - Firebase Firestore for database
 - Provider package for state management
